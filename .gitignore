@@ -2,3 +2,6 @@
 .venv
 *.pkl
 *.h5
+*.dat
+test_dataset
+training_dataset
